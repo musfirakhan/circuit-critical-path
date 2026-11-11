@@ -7,7 +7,7 @@ To get started, clone the repository to your local machine:
 
 Copy code:
 ```
-git clone https://github.com/musfirakhan/Assignment-DSD.git
+git clone https://github.com/musfirakhan/circuit-critical-path.git
 ```
 
 Install Dependencies
